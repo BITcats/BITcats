@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Zewen Xu
 
+- 🔭 I’m currently working on SLAM based on multi-sensor, including LIO, VIO and VLIO
+- 📫 How to reach me: **xuzewen2020@ia.ac.cn**
 <!--
 **BITcats/BITcats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
